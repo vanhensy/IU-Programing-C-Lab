@@ -16,8 +16,8 @@ All material for practise programing C and homework source code.
  - then calculate the average score of the student, apply this formular: 
    - ((HW1+HW2+HW3)/3) * 30% + Mid *30% + Final *40%
  - display the score and the mention of that student :
-      Grade >= 80: Pass Excellent 
-      Grade >= 65: Pass Good
-      Grade >= 50: Pass Fair 
+      - Grade >= 80: Pass Excellent ;
+      Grade >= 65: Pass Good ;
+      Grade >= 50: Pass Fair ;
       Grade < 50: Fail 
  - [Solution here](homework-1/question2.c)
