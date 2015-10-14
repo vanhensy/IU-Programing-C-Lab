@@ -1,5 +1,5 @@
 # Programing-C-Lab
-All material for practise programing C and homework source code. 
+All material for practise programing C and homework source code. Please note that, all of source here is just for reference. This source is free to use so you will take your own risk. 
 
 ## Homework: 
 
@@ -21,3 +21,5 @@ All material for practise programing C and homework source code.
       Grade >= 50: Pass Fair ;
       Grade < 50: Fail 
  - [Solution here](homework-1/question2.c)
+* Homework 2 : Available on next Tuesday (20/10/2015)
+* Homework 3 : Unavailable
