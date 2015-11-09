@@ -28,7 +28,7 @@ void main() {
 		printf("You should try again :)");
 	}
 	getch();
-}
+}//test git hub
 int random(number1, number2) {
 	int randNumber = 0, temp;
 	while (randNumber == 0)
