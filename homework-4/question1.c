@@ -12,7 +12,7 @@ void question_1() {
 		scanf_s("%i", &parray[i]);
 	}
 	printf("====================================\n");
-	printf("\Your input value is here !\n");
+	printf("\nYour input value is here !\n");
 	for (int i = 0; i<arraySize; i++)
 	{
 		printf("%3i", parray[i]);
